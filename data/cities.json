@@ -1,42 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "id": "fd52",
       "cityName": "Leeds",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
@@ -46,6 +10,30 @@
       "position": {
         "lat": "53.79589160174097",
         "lng": "-1.5380859375000002"
+      }
+    },
+    {
+      "id": "f1f6",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-11-17T07:38:55.509Z",
+      "notes": "",
+      "position": {
+        "lat": "51.49164465653034",
+        "lng": "-0.11535644531250001"
+      }
+    },
+    {
+      "id": "6f4d",
+      "cityName": "Southend-on-Sea",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-11-17T08:01:05.493Z",
+      "notes": "test",
+      "position": {
+        "lat": "51.53664105278716",
+        "lng": "0.7415771484375"
       }
     }
   ]
